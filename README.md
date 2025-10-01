@@ -1,4 +1,4 @@
-# 📘 DNS Application – Simplified Authoritative Server
+# DNS Application – Simplified Authoritative Server
 
 ##  Project Structure
 
